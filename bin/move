@@ -5,5 +5,5 @@ require_relative '../lib/move.rb'
 # Code your CLI Here
 input = get.strip
 def input_to_index(input)
-  
+
 end
